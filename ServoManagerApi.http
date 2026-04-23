@@ -1,0 +1,6 @@
+@ServoManagerApi_HostAddress = http://localhost:5222
+
+GET {{ServoManagerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

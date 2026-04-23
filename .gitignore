@@ -1,0 +1,34 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio
+.vs/
+*.sln.user
+*.vcxproj.user
+*.csproj.user
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# User-specific files
+appsettings.local.json
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
